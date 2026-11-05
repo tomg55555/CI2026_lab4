@@ -67,7 +67,7 @@ Beyond Jupyter/IPython, the notebook uses only the Python standard library.
 ## Branches
 
 - **`main`**: the standalone notebook, this README, and minimal setup files.
-- **`dev`**: the earlier solver package, tests, web UI, experiments, and original
+- **`dev`**: the solver package, tests, web UI, experiments, and original
   documentation, preserved for later work.
 
 Use `git switch dev` or `git switch main` to change versions; commit or stash local

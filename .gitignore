@@ -1,0 +1,13 @@
+.venv/
+.idea/
+.ruff_cache/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+build/
+dist/
+results/
+.DS_Store
+web/node_modules/
+klotski/web/static/
